@@ -1,0 +1,18 @@
+.credit-card-container{
+    box-shadow: 3px 8px gray;
+}
+.Credit_card{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Transaction-Text {
+    display: flex;
+    justify-content: center;
+}
+.Transaction-Desc{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: gray;
+}
