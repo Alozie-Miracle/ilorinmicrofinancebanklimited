@@ -580,7 +580,7 @@ ul.slick-dots {
 
 .fun-facts {
 	margin-top: 140px;
-	background-image: url(../images/fun-facts-bg.jpg);
+	background-image: url(./fun-facts-bg.jpg);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -1053,7 +1053,7 @@ footer .contact-form button.filled-button:hover {
 
 .page-heading {
 	text-align: center;
-	background-image: url(../images/page-heading-bg.jpg);
+	background-image: url(./page-heading-bg.jpg);
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;

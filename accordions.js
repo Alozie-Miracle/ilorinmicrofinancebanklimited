@@ -9985,7 +9985,7 @@ color.hook = function( hook ) {
 				}
 			}
 		};
-		jQuery.fx.step[ hook ] = function( fx ) {
+		jQuery.fx.step[ hook ] = ( fx ) => {
 			if ( !fx.colorInit ) {
 				fx.start = color( fx.elem, hook );
 				fx.end = color( fx.end );
